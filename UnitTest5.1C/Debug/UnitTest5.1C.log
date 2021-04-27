@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  UnitTest5.1C.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.h(53,113): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(128,14): warning C4552: ">": результат выражения не используется
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(150,14): warning C4552: ">": результат выражения не используется
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(179,108): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(263,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(264,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(265,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(266,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(267,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(268,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(269,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(270,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Project5.1C\Money.cpp(271,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Debug\UnitTest5.1C.lib и объект C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Debug\UnitTest5.1C.exp
+  UnitTest5.1C.vcxproj -> C:\Users\Dyzak\Desktop\студент 2\лабораторна 5\Project5.1C\Debug\UnitTest5.1C.dll
